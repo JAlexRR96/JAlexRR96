@@ -1,4 +1,4 @@
 - 👋 Hola, soy @JAlexRR96
 - 👀 Me encanta la programcion y soy un fanatico de las nuevas tectnologias 
 - 🌱 Actualmente estoy aprendiendo .NET , es la misma tecnologia con la que estoy trabajndo en mi puestoa ctual
-- 📫 Puedes contactarme por git o escrubiendo un email a j.slajandroruizramos@gmail.com
+- 📫 Puedes contactarme por git o escrubiendo un email a j.alejandroruizramos@gmail.com
